@@ -1,3 +1,17 @@
+# AwesomeProject
+
+Dtmoney é uma aplicação web para controle de registros financeiros, entradas e saídas.
+
+
+## Tecnologias Utilizadas
+
+Este projeto foi criado usando:
+
+* [Node.js](https://nodejs.org/) para o back-end
+* [React](https://reactjs.org/) para o front-end
+* [Express](http://expressjs.com/) como framework web
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
