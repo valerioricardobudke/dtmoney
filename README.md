@@ -1,4 +1,4 @@
-# AwesomeProject
+# DtMoney
 
 Dtmoney é uma aplicação web para controle de registros financeiros, entradas e saídas.
 
