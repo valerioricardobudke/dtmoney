@@ -1,5 +1,3 @@
-
-
 import { Server as MirageServer } from 'miragejs';
 // src/@types/miragejs.d.ts
 declare module 'miragejs' {
